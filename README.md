@@ -8,4 +8,6 @@ uv pip install -r requirements.txt
 uv add tensorflow-metal tensorflow-macos
 git remote add origin https://github.com/Smendowski/DLSS_2025.git
 git branch -M main
+git add .
+git commit -m "Initial commit"
 git push -u origin main
