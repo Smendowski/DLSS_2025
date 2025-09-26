@@ -10,6 +10,3 @@ git branch -M main
 git add .
 git commit -m "Initial commit"
 git push -u origin main
-
-# 2. Day 1
-https://zyblewski.notion.site/Multi-dimensional-encoding-for-difficult-data-276d90e588be805b8572fb91c2d12172
